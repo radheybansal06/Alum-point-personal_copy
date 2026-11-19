@@ -1,0 +1,21 @@
+# Resume Parser Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core parsing libraries
+PyMuPDF==1.23.14
+python-docx==1.1.0
+odfpy==1.4.1
+beautifulsoup4==4.12.2
+Pillow==10.1.0
+pytesseract==0.3.10
+python-magic==0.4.27
+
+# AI/LLM libraries
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+
+# GUI libraries (optional, for standalone app)
+customtkinter==5.2.0
+
+# System libraries
+typing-extensions==4.8.0

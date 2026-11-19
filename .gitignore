@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.*
+!.env.example
+sample-alumni.csv
+
+/uploads
+/server/uploads
+/.cursor
+**/__pycache__/
+*.pyc
+.DS_Store
